@@ -114,17 +114,18 @@ Este  proyecto es interesante porque muestra parte de mi obra de una forma mucho
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego. Programar las mecánicas del jurgo fue la parte que me supuso más trabajo. Lo primero que hice fue programar los botones del menu, seguido el menú de ajuste con el sonido, el tutorial y elegir canción.Tras tener estos dos apartados casi terminados avancé con mi portfolio. Durante ewste tiempo dibujé todos los escenarios y peronaje que fue lo más costoso de esta parte (sin contar el fondo infinito) cada fondo lo pusé en una escena diferente para quefuese más sencillo ponerlo en bucle. Coloqué mi obra y sus respectivos botones. Una vez terminada la parte  principal realicé el puzzle de 35 piezas, hacer que funcionase fue un gran reto pero puedo decir de forma orgullosa que todas van.
+
+- Video para el vídeo puse une de una visita al museo del prado porque estaba relacionado con mi proyecto, tenía intención de que fuera temporal y en su lugar poner un vídeo tutorial  pero no me ha dado tiempo.
+- Instrucciones y ayuda al usuario. Al inicial la histori el primer diálogo enseña al usuario a continuar diciendole que debe presionar el espacio para seguir.
+- Menús y elementos de navegación (botones) En los boones está escrito hacia dpnde te lleva, y los botones de la esquina superior izquierda par mutear la música y volver aal menú son muy intuitivos, lo mismo para los del menú de ajustees.
+
 
 
 
 ### Etapa 3: Problemas identificados
 
-Considero que no funciona bien el sonido, el comenzar suena un canción y si se cambia en ajustes a la otra canción al regresar suenan  las dos a la vez en el menú y es algo 
+Considero que no funciona bien el sonido, el comenzar suena unacanción y si se cambia en ajustes a la otra canción al regresar suenan las dos a la vez en el menú y es algo que no se como arreglar. Otras complicaciones pero que han sido resueltas han sido el diálogo, el puzzle, el fondo infinito y el vídeo.
 
 
 # 4. Conclusiones 
